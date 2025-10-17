@@ -4,7 +4,7 @@ import addisImg from '../public/assets/projects/addis.png';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
-const netflix = () => {
+const addis = () => {
   return (
     <div className='w-full'>
       <div className='w-screen h-[50vh] relative'>
