@@ -20,9 +20,7 @@ export default function Home() {
       {/* Background wrapper for Navbar + Main */}
       <div className="relative">
         {/* Background image */}
-        <div className="absolute inset-0 -z-10 h-[calc(100vh+5rem)] bg-cover bg-center bg-no-repeat"
-             style={{ backgroundImage: "url('/banner-1.jpg')" }}>
-        </div>
+        
 
         <Navbar />
         <Main />
